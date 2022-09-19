@@ -7,5 +7,6 @@ public class Main {
 		Show novoShow = new Show();
 		
 		novoShow.inserirSoma();
+		novoShow.inserirSubtracao();
 	}
 }

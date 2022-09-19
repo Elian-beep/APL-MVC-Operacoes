@@ -1,4 +1,4 @@
-package uea.edu.model;
+package uea.edu.model.entities;
 
 public class Soma {
 	private double a;
